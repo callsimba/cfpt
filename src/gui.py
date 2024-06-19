@@ -14,8 +14,8 @@ import random
 import pickle
 
 # Replace with your actual bot token and chat ID
-BOT_TOKEN = '7147301992:AAGvyk8lQ6uOj9uyRzdStokZTU4UfgETpNY'
-CHAT_ID = '6067013209'
+BOT_TOKEN = 'Add_your _token_here'
+CHAT_ID = 'Add_your_chat_ID_Here'
 
 # Globals for rotation
 rotation_interval = 1  # Default to 1 minute
