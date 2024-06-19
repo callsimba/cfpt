@@ -1,0 +1,104 @@
+2024-06-19 03:17:07,413 User Agent selected: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+2024-06-19 03:17:12,417 Background task completed!
+2024-06-19 03:21:33,094 Proxy added: 127.0.0.1:40000
+2024-06-19 03:21:37,418 User Agent selected: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+2024-06-19 03:21:42,423 Background task completed!
+2024-06-19 03:23:38,217 Proxy added: 127.0.0.1:4000
+2024-06-19 03:23:43,123 Proxy removed: 127.0.0.1:4000
+2024-06-19 03:23:55,957 Proxy added: 127.0.0.1:4000
+2024-06-19 03:23:58,511 User Agent selected: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+2024-06-19 03:24:03,515 Background task completed!
+2024-06-19 03:38:28,891 User Agent selected: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:54.0) Gecko/20100101 Firefox/54.0
+2024-06-19 03:38:33,895 Background task completed!
+2024-06-19 03:38:36,353 Error in background task: ('Unauthorized', 401, {'ok': False, 'error_code': 401, 'description': 'Unauthorized'})
+2024-06-19 03:43:50,151 User Agent selected: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+2024-06-19 03:43:55,154 Background task completed!
+2024-06-19 03:44:02,064 User Agent added: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:55.0) Gecko/20100101 Firefox/55.0
+2024-06-19 03:44:03,395 User Agent added: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:55.0) Gecko/20100101 Firefox/55.0
+2024-06-19 03:44:04,506 User Agent added: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:55.0) Gecko/20100101 Firefox/55.0
+2024-06-19 03:44:18,777 User Agent removed: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.2.4 (KHTML, like Gecko) Version/11.0.1 Safari/604.2.4
+2024-06-19 03:48:34,693 User Agent selected: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0
+2024-06-19 03:48:39,698 Background task completed!
+2024-06-19 03:48:44,945 User Agent selected: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0
+2024-06-19 03:54:31,172 User Agent selected: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0
+2024-06-19 03:54:36,176 Background task completed!
+2024-06-19 03:59:17,784 User Agent selected: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.1 Safari/603.3.8
+2024-06-19 03:59:22,787 Background task completed!
+2024-06-19 04:03:34,931 User Agent selected: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+2024-06-19 04:03:39,937 Background task completed!
+2024-06-19 04:13:29,123 User Agent selected: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:59.0) Gecko/20100101 Firefox/59.0
+2024-06-19 04:13:34,128 Background task completed!
+2024-06-19 04:13:36,514 Error in background task: ('Unauthorized', 401, {'ok': False, 'error_code': 401, 'description': 'Unauthorized'})
+2024-06-19 04:13:54,302 User Agent selected: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:54.0) Gecko/20100101 Firefox/54.0
+2024-06-19 04:15:02,059 User Agent selected: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:54.0) Gecko/20100101 Firefox/54.0
+2024-06-19 04:15:07,064 Background task completed!
+2024-06-19 04:15:16,716 User Agent selected: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:59.0) Gecko/20100101 Firefox/59.0
+2024-06-19 04:15:40,093 User Agent selected: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+2024-06-19 04:22:48,938 User Agent selected: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko
+2024-06-19 04:22:53,943 Background task completed!
+2024-06-19 04:23:36,125 User Agent selected: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:54.0) Gecko/20100101 Firefox/54.0
+2024-06-19 04:32:29,546 User Agent selected: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.2.4 (KHTML, like Gecko) Version/11.0.1 Safari/604.2.4
+2024-06-19 04:32:34,550 Background task completed!
+2024-06-19 04:32:45,207 User Agent selected: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+2024-06-19 04:40:32,137 User Agent selected: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko
+2024-06-19 04:40:37,140 Background task completed!
+2024-06-19 04:45:35,006 User Agent selected: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+2024-06-19 04:45:40,014 Background task completed!
+2024-06-19 04:46:07,082 Browser added: C:/Program Files/Google/Chrome/Application/chrome.exe
+2024-06-19 04:46:32,449 Proxy added: 127.0.0.1:4000 (SOCKS5)
+2024-06-19 04:46:51,319 Set rotation interval to 3 minutes
+2024-06-19 04:54:26,471 User Agent selected: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.1 Safari/603.3.8
+2024-06-19 04:54:31,475 Background task completed!
+2024-06-19 04:54:59,876 Proxy added: 127.0.0.1:4000 (SOCKS5)
+2024-06-19 04:55:10,723 Browser added: C:/Program Files/Google/Chrome/Application/chrome.exe
+2024-06-19 04:55:38,288 User Agent selected: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:58.0) Gecko/20100101 Firefox/58.0
+2024-06-19 04:55:43,293 Background task completed!
+2024-06-19 04:55:48,705 User Agent selected: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+2024-06-19 04:55:59,433 Set rotation interval to 5 minutes
+2024-06-19 04:56:07,472 Browser added: C:/Program Files/Google/Chrome/Application/chrome.exe
+2024-06-19 04:56:28,423 Proxy added: 127.0.0.1:4000 (SOCKS5)
+2024-06-19 05:00:33,712 User Agent selected: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+2024-06-19 05:00:38,467 User Agent selected: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+2024-06-19 05:00:38,716 Background task completed!
+2024-06-19 05:01:01,193 Proxy added: 127.0.0.1:4000 (SOCKS5)
+2024-06-19 05:01:11,941 Browser added: C:/Program Files/Google/Chrome/Application/chrome.exe
+2024-06-19 05:01:39,253 Settings saved
+2024-06-19 17:23:04,240 Settings loaded
+2024-06-19 17:23:12,502 User Agent selected: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0.2 Safari/605.1.15
+2024-06-19 17:23:17,505 Background task completed!
+2024-06-19 17:23:28,106 User Agent selected: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko
+2024-06-19 17:23:38,238 Browser added: C:/Program Files/Google/Chrome/Application/chrome.exe
+2024-06-19 17:23:55,913 Set rotation interval to 5 minutes
+2024-06-19 17:23:57,078 Rotating User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+2024-06-19 17:23:57,079 Started user agent rotation
+2024-06-19 17:24:44,560 Proxy added: 127.0.0.1:4000 (SOCKS5)
+2024-06-19 17:24:50,171 Opening browser: C:/Program Files/Google/Chrome/Application/chrome.exe with User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36 and Proxy: 127.0.0.1:4000:SOCKS5
+2024-06-19 17:25:36,488 Browser added: C:/Program Files/Mozilla Firefox/firefox.exe
+2024-06-19 17:25:42,597 Browser removed: C:/Program Files/Google/Chrome/Application/chrome.exe
+2024-06-19 17:25:44,570 Opening browser: C:/Program Files/Mozilla Firefox/firefox.exe with User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:57.0) Gecko/20100101 Firefox/57.0 and Proxy: 127.0.0.1:4000:SOCKS5
+2024-06-19 17:26:11,642 Settings saved
+2024-06-19 17:28:57,298 Rotating User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:54.0) Gecko/20100101 Firefox/54.0
+2024-06-19 17:31:45,288 Settings loaded
+2024-06-19 17:32:00,501 User Agent selected: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+2024-06-19 17:32:05,505 Background task completed!
+2024-06-19 17:32:11,810 User Agent selected: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+2024-06-19 17:32:42,395 Set rotation interval to 5 minutes
+2024-06-19 17:32:43,889 Rotating User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0.2 Safari/605.1.15
+2024-06-19 17:32:43,891 Started user agent rotation
+2024-06-19 17:32:58,519 Browser added: C:/Program Files/Mozilla Firefox/firefox.exe
+2024-06-19 17:33:04,006 Opening browser: C:/Program Files/Mozilla Firefox/firefox.exe with User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko and Proxy: 127.0.0.1:4000:SOCKS5
+2024-06-19 17:33:28,930 Proxy removed: 127.0.0.1:4000:SOCKS5
+2024-06-19 17:33:52,985 Proxy added: 127.0.0.1:4000 (SOCKS5)
+2024-06-19 17:33:58,039 Opening browser: C:/Program Files/Mozilla Firefox/firefox.exe with User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0 and Proxy: 127.0.0.1:4000:SOCKS5
+2024-06-19 17:34:50,636 Settings saved
+2024-06-19 17:43:36,535 Settings loaded
+2024-06-19 17:43:43,169 User Agent selected: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0.2 Safari/605.1.15
+2024-06-19 17:43:48,173 Background task completed!
+2024-06-19 17:43:52,615 User Agent selected: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+2024-06-19 17:44:08,815 Proxy activated: 127.0.0.1:4000:SOCKS5
+2024-06-19 17:44:11,007 Proxy activated: 127.0.0.1:4000:SOCKS5
+2024-06-19 17:44:22,710 Set rotation interval to 5 minutes
+2024-06-19 17:44:23,814 Rotating User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0
+2024-06-19 17:44:23,814 Started user agent rotation
+2024-06-19 17:44:37,535 Browser added: C:/Program Files/Mozilla Firefox/firefox.exe
+2024-06-19 17:44:42,890 Opening browser: C:/Program Files/Mozilla Firefox/firefox.exe with User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:57.0) Gecko/20100101 Firefox/57.0 and Proxy: 127.0.0.1:4000:SOCKS5
